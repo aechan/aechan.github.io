@@ -11,21 +11,21 @@
 
 <blockquote>sync.theater is a web app that allows for realtime synchronized watching of videos over a WebSocket connection. The site is available at <a href="http://sync.theater">http://sync.theater</a> and currently sees around 2000 monthly users.</blockquote>
 
-- GitHub: [https://github.com/aechan/Sync.Theater.Backend](https://github.com/aechan/Sync.Theater.Backend)
+- GitHub: [https://github.com/aechan/Sync.Theater.Backend](link)
 - Site: [http://sync.theater](http://sync.theater)
 
 ### FrostSharp
 
 <blockquote>FrostSharp is the first-ever .NET wrapper for <a href="http://po.et">po.et's</a> Frost API. po.et is a blockchain decentralized application for recording proof of content ownership (for copyright disputes etc..) into the blockchain.</blockquote>
 
-- GitHub: [https://github.com/aechan/Sync.Theater.Backend](https://github.com/aechan/Sync.Theater.Backend)
+- GitHub: [https://github.com/aechan/Sync.Theater.Backend](link)
 - Media Coverage: [https://blog.po.et](https://blog.po.et/po-ets-open-source-community-plugins-e91a1cbc48cd)
 
 ### math-parser
 
 <blockquote>math-parser is a math expression evaluation engine written in C++11. It features a tokenizer, reverse polish notation converter and a RPN computation algorithm.</blockquote>
 
-- GitHub: [https://github.com/aechan/math-parser](https://github.com/aechan/math-parser)
+- GitHub: [https://github.com/aechan/math-parser](link)
 
 ## Work Experience
 
