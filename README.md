@@ -7,6 +7,8 @@
 
 ## Projects
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/aechan/aechan.github.io.svg)](https://greenkeeper.io/)
+
 ### sync.theater
 
 <blockquote>sync.theater is a web app that allows for realtime synchronized watching of videos over a WebSocket connection. The site is available at <a href="http://sync.theater">http://sync.theater</a> and currently sees around 2000 monthly users.</blockquote>
