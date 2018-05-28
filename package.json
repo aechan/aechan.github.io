@@ -2,7 +2,7 @@
   "private": true,
   "dependencies": {
     "cssnano": "^3.10.0",
-    "laravel-mix": "^1.5.0",
+    "laravel-mix": "^2.1.11",
     "material-colors": "^1.2.5",
     "postcss-import": "^11.0.0",
     "tachyons": "^4.8.1"
